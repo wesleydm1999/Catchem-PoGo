@@ -50,7 +50,7 @@
     },
 	{
       "Key": "eventUseLuckyEggMinPokemonCheck",
-      "Value": "Not enough Pokemon to trigger a lucky egg. Waiting for {0} more. ({1}/{2})"
+      "Value": "Niet genoeg pokemon om Lucky Egg te gebruiken nog {0} te gaan. ({1}/{2})"
     },
     {
       "Key": "eventPokemonEvolvedSuccess",
@@ -150,7 +150,7 @@
     },
     {
       "Key": "logEntryRecycling",
-      "Value": "RECYCLING"
+      "Value": "RECYCLEN"
     },
     {
       "Key": "logEntryPkmn",
@@ -190,7 +190,7 @@
     },
     {
       "Key": "accessTokenExpired",
-      "Value": "Access token expired. Relogin to get a new token."
+      "Value": "Access token verlopen. Log opnieuw in voor een nieuwe token."
     },
     {
       "Key": "tryingAgainIn",
@@ -226,11 +226,11 @@
     },
     {
       "Key": "coordinatesAreInvalid",
-      "Value": "Coördinaten in \"Coords.ini\" zijn ongeldig, gebruiken maken van de standaard coördinaten!"
+      "Value": "Coördinaten in \"Coords.ini\" zijn ongeldig, maak gebruik van de standaard coördinaten!"
     },
     {
       "Key": "gotUpToDateVersion",
-      "Value": "Perfect! Je hebt al de nieuwste versie {0}"
+      "Value": "Perfect! Je hebt de nieuwste versie al {0}"
     },
     {
       "Key": "autoUpdaterDisabled",
@@ -250,11 +250,11 @@
     },
     {
       "Key": "finishedTransferringConfig",
-      "Value": "Klaar met het overzetten uw config naar de nieuwe versie..."
+      "Value": "Klaar met het overzetten van uw config naar de nieuwe versie..."
     },
     {
       "Key": "updateFinished",
-      "Value": "Update klaar is, kunt u dit venster nu sluiten."
+      "Value": "als de update klaar is, kunt u dit venster nu sluiten."
     },
     {
       "Key": "lookingForIncensePokemon",
@@ -298,7 +298,7 @@
     },
     {
       "Key": "invFullTransferring",
-      "Value": "Pokemon Inventaris is vol, transferring Pokemon..."
+      "Value": "Pokemon Inventaris is vol, Pokemon aan het transferen..."
     },
     {
       "Key": "invFullTransferManually",
@@ -314,11 +314,11 @@
     },
     {
       "Key": "encounterProblem",
-      "Value": "Problem gevonden: {0}"
+      "Value": "Probleem gevonden: {0}"
     },
     {
       "Key": "encounterProblemLurePokemon",
-      "Value": "Problem gevonden: Lure Pokemon {0}"
+      "Value": "Probleem gevonden: Lure Pokemon {0}"
     },
     {
       "Key": "lookingForPokemon",
@@ -394,7 +394,7 @@
     },
     {
       "Key": "googleTwoFactorAuthExplanation",
-      "Value": "Opening Google App-Passwords. Maak een nieuw App-Wachtwoord aan (gebruik: Ander, als toestel)"
+      "Value": "Google App-Passwords aan het openen. Maak een nieuw App-Wachtwoord aan (gebruik: Ander, als toestel)"
     },
     {
       "Key": "googleError",
